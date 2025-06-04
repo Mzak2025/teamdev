@@ -9,6 +9,6 @@ public class IndexController {
     @GetMapping
     @ResponseBody
     public String index() {
-        return "<h1>create mod</h1>";
+        return "<h1>hello</h1>";
     }
 }
